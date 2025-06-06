@@ -38,18 +38,21 @@ Here's a walkthrough of implemented required features:
 GIF created with Adobe Express
 
 ## Video Walkthrough
-Desktop View:
+**Desktop View:**
+
 <img src='Desktop.png' title='Desktop View' width='' alt='Desktop View' />
 
-Tablet View:
+**Tablet View:**
+
 <img src='Tablet.png' title='Tablet View' width='' alt='Tablet View' />
 
-Mobile View:
+**Mobile View:**
+
 <img src='Moblie.png' title='Mobile View' width='' alt='Mobile View' />
 
 ## Notes
 
-One of the trickier parts was getting the images to look clean and consistent. Since they all had different shapes and sizes, the cards looked kind of messy at first. I ended up using object-fit: cover and setting a fixed height on the images so they would all line up nicely. That made everything feel a lot more balanced and helped the layout look more put together.
+One of the trickier parts was getting the images to look clean and consistent. Since they all had different shapes and sizes, the cards looked kind of messy at first. I ended up using 'object-fit: cover' and setting a fixed height on the images so they would all line up nicely. That made everything feel a lot more balanced and helped the layout look more put together.
 
 ## License
 
